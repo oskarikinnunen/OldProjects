@@ -11,7 +11,6 @@
 ![yeet](https://user-images.githubusercontent.com/45420297/219228187-2db4f746-4966-4d47-a108-a618588ce53e.gif)
 
 
-## Custom Unity editor extensions used in various personal projects
 ### Foliage generator for Unity terrain
 - Lets you add gameobjects (grass/foliage in this case) to the scene with a texture "noisemap" and some parameters.  
 
